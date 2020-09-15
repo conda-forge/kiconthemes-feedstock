@@ -1,5 +1,5 @@
 {% set name = "kiconthemes" %}
-{% set version = "5.73.0" %}
+{% set version = "5.74.0" %}
 {% set major_minor = ".".join(version.split(".")[:2]) %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://download.kde.org/stable/frameworks/{{ major_minor }}/kiconthemes-{{ version }}.tar.xz
-  sha256: 4490109a0a42675e4cd3497433e10fd4be24ef644a283edf46b308314d130356
+  sha256: f51f0c75f50da3d119448f387c65fa69785c2c1bc82b61407bb92bf80cab31b5
 
 build:
   number: 0
