@@ -3,11 +3,13 @@ About kiconthemes
 
 Home: https://api.kde.org/frameworks/kiconthemes/html/index.html
 
-Package license: LGPL-v2.1-or-later
+Package license: GPL-2.0-only AND GPL-3.0-only AND LGPL-2.0-only AND LGPL-2.0-or-later AND LGPL-2.1-only AND LGPL-3.0-only AND LicenseRef-KDE-Accepted-GPL AND LicenseRef-KDE-Accepted-LGPL
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kiconthemes-feedstock/blob/master/LICENSE.txt)
 
 Summary: Icon GUI utilities
+
+Development: https://cgit.kde.org/kiconthemes.git/tree
 
 This library contains classes to improve the handling of icons in applications
 using the KDE Frameworks.
